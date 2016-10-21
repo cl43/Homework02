@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework 2 - Player ID</string>
+    <string name="list_url">http://cs262.cs.calvin.edu:8089/monopoly/players</string>
+    <string name="player_url">http://cs262.cs.calvin.edu:8089/monopoly/player/</string>
+    <string name="fetch_button_label">Fetch</string>
+    <string name="connection_error">Failed to connect to service...</string>
+    <string name="id_text">ID</string>
+    <string name="name_text">Name</string>
+    <string name="email_text">email@email.com</string>
+</resources>
